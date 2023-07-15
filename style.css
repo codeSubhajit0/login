@@ -464,7 +464,7 @@ main {
 }
 
 
-@media (max-width:460px){
+@media (max-width:560px){
   .form form .error-text{
     margin-left: 3.5rem;
   }
