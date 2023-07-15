@@ -83,7 +83,7 @@ main {
   border: 1px solid #f5c6cb;
   margin-bottom: 10px;
   margin-left: 4.6rem;
-  display: none;
+  /* display: none; */
 }
 .form form .name-details{
   display: flex;
@@ -471,7 +471,7 @@ main {
   .form {
     height: 100%;
     width: 100%;
-    gap: 2rem;
+    gap: 3rem;
     border-radius: 0px;
   }
   .form form .button input {
@@ -483,7 +483,7 @@ main {
     margin-left: 3.4rem;
   }
   .formContainer {
-    gap: 3rem;
+    gap: 4rem;
   }
 
   .field label {
